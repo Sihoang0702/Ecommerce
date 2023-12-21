@@ -1,0 +1,11 @@
+export { default as HomePage } from "./HomePage";
+export { default as AuthPage } from "./AuthPage";
+export { default as DetailProductPage } from "./DetailProductPage";
+export { default as ProductPage } from "./ProductPage";
+export { default as PublicPage } from "./PublicPage";
+export { default as ServicePage } from "./ServicePage";
+export { default as Faq } from "./FaqPage";
+export { default as BlogPage } from "./BlogPage";
+export { default as FinalRegister } from "./FinalRegister";
+export { default as ResetPassword } from "./ResetPassword";
+export { default as DetailCart } from "./DetailCart";
